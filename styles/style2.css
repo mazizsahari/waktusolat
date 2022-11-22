@@ -1,0 +1,559 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+
+.tbackground{
+ margin-top: 80px;
+  position: relative;
+}
+
+.tbackground-2{
+      width: 55%;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        left: 0px;
+        margin: auto;
+}
+
+.header-big-l{
+  position: absolute;
+  top: 0px;
+  margin: 0px 3%; 
+}
+
+.header-big-l img{
+   width: 48%;
+   float: right;
+}
+
+.header-big-r{
+  position: absolute;
+  top: 0px;
+      right: 0;
+  margin: 0px 3%; 
+}
+
+.header-big-r img{
+   width: 48%;
+   float: left;
+}
+
+.header-small-l{
+        position: absolute;
+        top: 0px;
+        margin: 0px 40px;
+}
+
+.header-small-l img{
+   width: 48%;
+   float: left;
+}
+.header-small-r{
+        position: absolute;
+        top: 0px;
+            right: 0;
+        margin: 0px 40px;
+}
+
+.header-small-r img{
+   width: 48%;
+   float: right;
+}
+
+
+.sideleft{
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+}
+
+.sideleft img{
+  width: 48%;float: left;
+}
+
+
+.sideright{
+      position: absolute;
+      bottom: 0px;
+      right:  0px;
+}
+
+.sideright img{
+  width: 48%;float: right;
+}
+
+
+.mosque{
+  position: relative;
+}
+
+.mosque-bottom{
+  position: absolute;
+  bottom:0px;    
+  padding: 0px 25px;
+}
+
+.mcontent{
+  position: absolute;
+  top:0px;    
+  z-index: 2;
+  padding: 0px 20px;
+  text-align: center;
+}
+
+.mcontent-icon img{
+  width: 23%;
+  padding: 80px 0px 0px;
+}
+
+.mcontent-head img{
+    width: 75%;
+             padding-bottom: 20px;
+             margin-top: -40px;
+             margin-bottom: 15px;
+             border-bottom: 2px solid #fff;
+}
+
+.mcontent-title{
+  color: #fff;
+  font-size: 26px;  
+  font-family: 'Montserrat', sans-serif;  
+  margin-bottom: 15px;
+}
+
+.mdetail{
+	width:70%;
+}
+
+.mcontent-detail{
+  color: #fff; 
+  font-size: 14px;
+  padding: 0px 10px 0px 0px;
+              text-align: left;
+              font-family: 'Montserrat', sans-serif;
+              line-height: 1.30;
+              margin-bottom: 15px;
+}
+.mbtn{
+	width:30%;
+}
+.mcontent-btn{
+  margin:5px 0px 0px;
+}
+.mcontent-btn a{
+  text-decoration:none;
+}
+.mcontent-btn p{
+  color: #fff;
+                background: #ff9a53;
+                font-size: 14px;
+                font-family: 'Montserrat', sans-serif;
+                padding: 10px;
+                font-weight: bold;
+                border-radius: 50px;
+               /* margin: 12px 0px 10px -5px;*/
+}
+
+
+.mcapps{
+          padding: 15px 60px 0px;
+          justify-content:space-evenly;
+}
+
+.mcapps .android{
+  text-align: right;
+  width: 45%;
+}
+
+.mcapps .ios{
+  text-align: left;
+  width: 45%;
+}
+
+
+.mcapps .android img, .mcapps .ios img{
+  width: 50%;
+}
+
+.socmed{
+  margin: auto;
+    width: 200px;
+    padding: 8px 0px;
+    justify-content: space-evenly;
+}
+
+.socmed .fb{
+   display: inline-flex;
+           height: 25px;
+           border-radius: 5px;
+           background-color: #395b98;
+}
+
+.socmed .fb img{
+  width: 14px;
+           padding: 5px 0px;
+           margin: 1px 6px;
+}
+
+.socmed .fb p{
+  color: white;
+  font-size: 10px;
+    margin: 5px 7px 0px 0px;
+}
+
+.socmed .tw{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #1aa1f3;
+}
+
+.socmed .tw img{
+    width: 22px;
+    padding: 0px 5px 5px;
+    margin: 0px 6px;
+}
+
+.socmed .gl{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #f52323;
+}
+.socmed .gl img{
+    width: 23px;
+    padding: 2px;
+    margin: 0px 6px 6px;
+}
+
+.socmed .ws{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #3bd756;
+}
+
+.socmed .ws img{
+    width: 25px;
+    padding: 0px 6px;
+    margin: 3px 4px 7px;
+}
+.bg-xl-none{
+ display: none;
+}
+
+@media (max-width: 680px) {
+
+
+.bg-sm-display{
+ display: block;
+}
+.bg-sm-none{
+  display: none;
+}
+
+.background-2{
+      width: 55%;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        left: 0px;
+        margin: auto;
+}
+
+.header-big-l{
+  position: absolute;
+  top: 0px;
+  margin: 0px 90px; 
+}
+
+.header-big-l img{
+   width: 48%;
+   float: right;
+}
+
+.header-big-r{
+  position: absolute;
+  top: 0px;
+      right: 0;
+  margin: 0px 90px; 
+}
+
+.header-big-r img{
+   width: 48%;
+   float: left;
+}
+
+.header-small-l{
+        position: absolute;
+        top: -25px;
+        margin: 0px 10px;
+}
+
+.header-small-l img{
+   width: 30%;
+   float: left;
+}
+.header-small-r{
+        position: absolute;
+        top: -25px;
+            right: 0;
+        margin: 0px 10px;
+}
+
+.header-small-r img{
+   width: 30%;
+   float: right;
+}
+
+
+.sideleft{
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+}
+
+.sideleft img{
+  width: 48%;
+  float: left;
+}
+
+
+.sideright{
+      position: absolute;
+      bottom: 0px;
+      right:  0px;
+}
+
+.sideright img{
+  width: 25%;
+  float: right;
+}
+
+
+.mosque{
+  position: relative;
+
+}
+
+.mosque-bottom{
+  position: absolute;
+  bottom:0px;    
+  padding: 0px;
+  width: 175%;
+  margin-left: -40%;
+
+}
+
+.mcontent{
+  position: absolute;
+  top:0px;    
+  padding: 0px;
+  text-align: center;
+      margin-left: -20px;
+    width: 120%;
+}
+
+.mcontent-icon img{
+  width: 40%;
+  padding: 40px 0px 0px;
+}
+
+.mcontent-head img{
+    width: 92%;
+             padding-bottom: 15px;
+             margin-top: -12px;
+             margin-bottom: 0px;
+             border-bottom: none;
+}
+
+.mcontent-title{
+      color: #fff;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border-top: 2px solid #fff;
+    padding-top: 15px;
+}
+
+.mcontent-detail{
+  color: #fff; 
+  font-size: 12px;
+              padding: 0px;
+              text-align: center;
+              line-height: 1.30;
+              margin-bottom: 8px;
+}
+
+.mcontent-btn{
+      margin: 10px 45px 18px;
+}
+.mcontent-btn p{
+  color: #fff;
+                background: #ff9a53;
+                font-size: 14px;
+                padding: 5px 10px;
+                font-weight: bold;
+                border-radius: 50px;
+                margin: 0px;
+}
+
+
+.mcapps{
+  margin: 0px 0px 10px 0px;
+    padding: 15px 1px 0px;
+    border-top: 2px solid #fff;
+    justify-content: space-evenly;
+}
+
+.mcapps .android{
+  text-align: right;
+      width: 45%;
+}
+
+.mcapps .ios{
+  text-align: left;
+      width: 45%;
+}
+
+
+.mcapps .android img, .mcapps .ios img{
+  width: 100%;
+}
+
+.socmed{
+  margin: auto;
+  padding: 0px;
+  justify-content:space-evenly;
+}
+
+.socmed .fb{
+   display: inline-flex;
+           height: 25px;
+           border-radius: 5px;
+           background-color: #395b98;
+}
+
+.socmed .fb img{
+  width: 14px;
+           padding: 5px 0px;
+           margin: 1px 6px;
+}
+
+.socmed .fb p{
+  color: white;
+  font-size: 10px;
+    margin: 5px 7px 0px 0px;
+}
+
+.socmed .tw{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #1aa1f3;
+}
+
+.socmed .tw img{
+    width: 22px;
+    padding: 0px 5px 5px;
+    margin: 0px 6px;
+}
+
+.socmed .gl{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #f52323;
+}
+.socmed .gl img{
+    width: 23px;
+    padding: 2px;
+    margin: 0px 6px 6px;
+}
+
+.socmed .ws{
+    border-radius: 3px;
+           height: 20px;
+           background-color: #3bd756;
+}
+
+.socmed .ws img{
+    width: 25px;
+    padding: 0px 6px;
+    margin: 3px 4px 7px;
+}
+
+
+
+   .owl-prev {
+
+  text-align: center;
+  background-color: #ffffff00;
+    position: absolute;
+    left: -5px;
+    top:29%;
+    border: none;
+
+}
+
+.owl-next {
+
+  text-align: center;
+  background-color: #ffffff00;
+  position: absolute;
+  right: -5px;
+  top: 29%;
+  border: none;
+}
+
+
+.owl-next i {
+  color: #ffffff;
+    font-size: 20px;
+    background: #00000082;
+    padding: 10px;
+
+}
+
+.owl-prev i {
+  color: #ffffff;
+    font-size: 20px;
+    background: #00000082;
+    padding: 10px;
+}
+
+}
+
+
+.tips_slider .owl-next {
+    text-align: center;
+    background-color: #ffffff00;
+    position: absolute;
+    right: -5px;
+    top: 40%;
+    border: none;
+}
+
+
+.tips_slider .owl-prev {
+
+  text-align: center;
+  background-color: #ffffff00;
+    position: absolute;
+    left: -5px;
+    top:40%;
+    border: none;
+
+}
+
+
+
+.tips_slider .owl-next i {
+  color: #ffffff;
+    font-size: 20px;
+    background: #00000082;
+    padding: 10px;
+
+}
+
+.tips_slider .owl-prev i {
+  color: #ffffff;
+    font-size: 20px;
+    background: #00000082;
+    padding: 10px;
+
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:#f5d500}.cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="Zohor" transform="translate(563 -559)">
+        <g id="sun" transform="translate(-560 562)">
+            <circle id="Ellipse_776" cx="6.627" cy="6.627" r="6.627" class="cls-1" data-name="Ellipse 776" transform="translate(8.373 8.373)"/>
+            <path id="Path_12511" d="M58.157 65.869a7.711 7.711 0 1 1 7.711-7.711 7.72 7.72 0 0 1-7.711 7.711zm0-13.255a5.544 5.544 0 1 0 5.543 5.544 5.55 5.55 0 0 0-5.543-5.544z" class="cls-1" data-name="Path 12511" transform="translate(-43.157 -43.158)"/>
+            <path id="Path_12512" d="M97.4 5.691a1.084 1.084 0 0 1-1.084-1.084V1.084a1.084 1.084 0 0 1 2.167 0v3.523A1.084 1.084 0 0 1 97.4 5.691z" class="cls-1" data-name="Path 12512" transform="translate(-82.398)"/>
+            <path id="Path_12513" d="M97.4 173.934a1.084 1.084 0 0 1-1.084-1.084v-3.523a1.084 1.084 0 0 1 2.167 0v3.523a1.084 1.084 0 0 1-1.083 1.084z" class="cls-1" data-name="Path 12513" transform="translate(-82.398 -143.934)"/>
+            <path id="Path_12514" d="M172.85 98.481h-3.523a1.084 1.084 0 0 1 0-2.167h3.523a1.084 1.084 0 1 1 0 2.167z" class="cls-1" data-name="Path 12514" transform="translate(-143.934 -82.398)"/>
+            <path id="Path_12515" d="M4.607 98.481H1.084a1.084 1.084 0 0 1 0-2.167h3.523a1.084 1.084 0 0 1 0 2.167z" class="cls-1" data-name="Path 12515" transform="translate(0 -82.398)"/>
+            <path id="Path_12516" d="M148.26 32.869a1.084 1.084 0 0 1-.766-1.85l2.491-2.491a1.084 1.084 0 1 1 1.532 1.532l-2.491 2.491a1.08 1.08 0 0 1-.766.318z" class="cls-1" data-name="Path 12516" transform="translate(-125.911 -24.134)"/>
+            <path id="Path_12517" d="M29.293 151.835a1.084 1.084 0 0 1-.766-1.85l2.491-2.491a1.084 1.084 0 0 1 1.532 1.532l-2.491 2.491a1.08 1.08 0 0 1-.766.318z" class="cls-1" data-name="Path 12517" transform="translate(-24.133 -125.911)"/>
+            <path id="Path_12518" d="M150.75 151.835a1.08 1.08 0 0 1-.766-.317l-2.491-2.491a1.084 1.084 0 0 1 1.532-1.532l2.491 2.491a1.084 1.084 0 0 1-.766 1.85z" class="cls-1" data-name="Path 12518" transform="translate(-125.91 -125.911)"/>
+            <path id="Path_12519" d="M31.784 32.869a1.08 1.08 0 0 1-.766-.317l-2.491-2.492a1.084 1.084 0 0 1 1.532-1.532l2.491 2.491a1.084 1.084 0 0 1-.766 1.85z" class="cls-1" data-name="Path 12519" transform="translate(-24.133 -24.134)"/>
+        </g>
+        <path id="Rectangle_1292" d="M0 0h36v36H0z" class="cls-2" data-name="Rectangle 1292" transform="translate(-563 559)"/>
+    </g>
+</svg>

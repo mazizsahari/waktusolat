@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{fill:none}
+        </style>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#6f5321"/>
+            <stop offset="1" stop-color="#f5d500"/>
+        </linearGradient>
+    </defs>
+    <g id="Isha-imsak" transform="translate(401 -559)">
+        <g id="Group_3168" data-name="Group 3168" transform="translate(-397.399 562.6)">
+            <path id="Subtraction_8" d="M14.944 28.8A14.932 14.932 0 0 1 9.263.05.639.639 0 0 1 9.511 0a.646.646 0 0 1 .274.062.642.642 0 0 1 .306.855A13.637 13.637 0 0 0 9.109 9.5h-.118a2.305 2.305 0 0 0-1.647.687 2.339 2.339 0 0 0-.682 1.659 2.368 2.368 0 0 0 .035.4 3.692 3.692 0 0 0-2.86 2.346 3.718 3.718 0 0 0 .839 3.929 3.649 3.649 0 0 0 2.6 1.084H18.1a13.578 13.578 0 0 0 6.974.462 13.744 13.744 0 0 0 2.591-.784h-.006a.642.642 0 0 1 .828.867 14.938 14.938 0 0 1-13.543 8.65z" class="cls-1" data-name="Subtraction 8"/>
+            <g id="mobileme-logo-of-black-cloud" transform="translate(5.328 8.928)">
+                <path id="MobileMe" d="M14.4 76.208a2.838 2.838 0 0 1-2.827 2.848H2.826a2.85 2.85 0 0 1-.444-5.656 1.816 1.816 0 0 1-.027-.308 1.8 1.8 0 0 1 1.791-1.8 1.772 1.772 0 0 1 1.158.428c.557-1.272 1.27-2.42 3.27-2.42 2.426 0 3.575 1.885 3.575 3.874 0 .083 0 .166-.009.247a2.844 2.844 0 0 1 2.26 2.787z" class="cls-1" transform="translate(0 -69.296)"/>
+            </g>
+        </g>
+        <path id="Rectangle_1292" d="M0 0h36v36H0z" class="cls-2" data-name="Rectangle 1292" transform="translate(-401 559)"/>
+    </g>
+</svg>

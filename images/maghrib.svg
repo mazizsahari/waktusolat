@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:none}
+        </style>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f5d500"/>
+            <stop offset="1" stop-color="#6f5321"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1288" d="M0 0h28.8v14.4H0z" class="cls-1" data-name="Rectangle 1288"/>
+        </clipPath>
+    </defs>
+    <g id="Maghrib" transform="translate(455 -559)">
+        <g id="Group_3166" data-name="Group 3166" transform="translate(-451.4 566.92)">
+            <g id="Mask_Group_23" class="cls-2" data-name="Mask Group 23">
+                <g id="sun" transform="translate(0 -.072)">
+                    <circle id="Ellipse_776" cx="6.362" cy="6.362" r="6.362" class="cls-1" data-name="Ellipse 776" transform="translate(8.038 8.038)"/>
+                    <path id="Path_12511" d="M57.849 65.252a7.4 7.4 0 1 1 7.4-7.4 7.411 7.411 0 0 1-7.4 7.4zm0-12.725a5.322 5.322 0 1 0 5.322 5.322 5.328 5.328 0 0 0-5.322-5.321z" class="cls-1" data-name="Path 12511" transform="translate(-43.449 -43.45)"/>
+                    <path id="Path_12512" d="M97.354 5.463a1.04 1.04 0 0 1-1.04-1.04V1.04a1.04 1.04 0 1 1 2.081 0v3.383a1.04 1.04 0 0 1-1.041 1.04z" class="cls-1" data-name="Path 12512" transform="translate(-82.954)"/>
+                    <path id="Path_12513" d="M97.354 173.706a1.04 1.04 0 0 1-1.04-1.04v-3.382a1.04 1.04 0 0 1 2.081 0v3.382a1.04 1.04 0 0 1-1.041 1.04z" class="cls-1" data-name="Path 12513" transform="translate(-82.954 -144.906)"/>
+                    <path id="Path_12514" d="M172.666 98.395h-3.382a1.04 1.04 0 1 1 0-2.081h3.382a1.04 1.04 0 0 1 0 2.081z" class="cls-1" data-name="Path 12514" transform="translate(-144.906 -82.954)"/>
+                    <path id="Path_12515" d="M4.423 98.395H1.04a1.04 1.04 0 1 1 0-2.081h3.383a1.04 1.04 0 1 1 0 2.081z" class="cls-1" data-name="Path 12515" transform="translate(0 -82.954)"/>
+                    <path id="Path_12516" d="M148.217 32.682a1.04 1.04 0 0 1-.736-1.776l2.392-2.392a1.04 1.04 0 0 1 1.471 1.471l-2.392 2.392a1.037 1.037 0 0 1-.735.305z" class="cls-1" data-name="Path 12516" transform="translate(-126.762 -24.297)"/>
+                    <path id="Path_12517" d="M29.25 151.649a1.04 1.04 0 0 1-.736-1.776l2.392-2.392a1.04 1.04 0 0 1 1.471 1.471l-2.392 2.392a1.036 1.036 0 0 1-.735.305z" class="cls-1" data-name="Path 12517" transform="translate(-24.296 -126.762)"/>
+                    <path id="Path_12518" d="M150.607 151.649a1.037 1.037 0 0 1-.736-.3l-2.392-2.392a1.04 1.04 0 0 1 1.471-1.471l2.392 2.392a1.04 1.04 0 0 1-.736 1.776z" class="cls-1" data-name="Path 12518" transform="translate(-126.761 -126.762)"/>
+                    <path id="Path_12519" d="M31.641 32.682a1.037 1.037 0 0 1-.736-.3l-2.392-2.392a1.04 1.04 0 0 1 1.471-1.471l2.392 2.392a1.04 1.04 0 0 1-.736 1.776z" class="cls-1" data-name="Path 12519" transform="translate(-24.296 -24.297)"/>
+                </g>
+            </g>
+            <rect id="Rectangle_1289" width="28.8" height=".864" class="cls-1" data-name="Rectangle 1289" rx=".432" transform="translate(0 15.552)"/>
+            <rect id="Rectangle_1290" width="21.6" height=".864" class="cls-1" data-name="Rectangle 1290" rx=".432" transform="translate(3.6 17.568)"/>
+            <rect id="Rectangle_1291" width="14.4" height=".864" class="cls-1" data-name="Rectangle 1291" rx=".432" transform="translate(7.2 19.584)"/>
+        </g>
+        <path id="Rectangle_1292" d="M0 0h36v36H0z" class="cls-3" data-name="Rectangle 1292" transform="translate(-455 559)"/>
+    </g>
+</svg>
