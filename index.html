@@ -1036,7 +1036,7 @@
                                                 class="stateName text-white"></span>
                                         </div>
                                         <div class="col-12 col-lg-12 form-group">
-                                            <select class="form-control w-100" data-live-search="true" id="areaSelect" name="areaSelect">
+                                            <select class="form-control w-100" data-live-search="true" id="areaSelect">
                                                 <optgroup label="Johor">
     
                                                     <option value="JHR01" data-areaName="Pemanggil">Pemanggil</option>
@@ -1555,7 +1555,6 @@
             });
 
             let searchParams = new URLSearchParams(window.location.search);
-            var areaSelect = searchParams.get('areaSelect');
             var areaName = searchParams.get('areaName');
 
             if (areaSelect) {
@@ -1710,37 +1709,6 @@
 
                     $(".preloader").fadeOut();
                 });
-                /*$.ajax({
-    "async": true,
-    "crossDomain": true,
-    "url": "http://128.199.69.115/esolatjsonpost.php",
-    "method": "POST",
-    "headers": {
-    "content-type": "application/x-www-form-urlencoded",
-    "cache-control": "no-cache",
-    "postman-token": "03e20535-63a2-f23b-7e2f-2f282d5d65a5"
-    },
-    "data": {
-    "zon": code.toLowerCase(),
-    "bulan": (today.getMonth+1),
-    "tahun": today.getFullYear()
-    }
-}).done(function( res ) {
-    console.log( "Data Saved: " , res );
-    var solat = res.solat;
-    solatToday = solat[now.getDate()-1];
-
-    waktu[0].time = theDate + solatToday.imsak;
-    waktu[1].time = theDate + solatToday.subuh;
-    waktu[2].time = theDate + solatToday.syuruk;
-    waktu[3].time = theDate + solatToday.zohor;
-    waktu[4].time = theDate + solatToday.asar;
-    waktu[5].time = theDate + solatToday.maghrib;
-    waktu[6].time = theDate + solatToday.iswak;
-
-    console.log(waktu);
-    $(".preloader").fadeOut();
-});*/
             }
 
 
@@ -1753,27 +1721,6 @@
                 else
                     return n;
             }
-
-
-            var settings = {
-                "async": true,
-                "crossDomain": true,
-                "url": "https://cms.waktusolat.digital/esolatjson.php",
-                "method": "POST",
-                "headers": {
-                    "content-type": "application/x-www-form-urlencoded",
-                    "cache-control": "no-cache",
-                    "postman-token": "03e20535-63a2-f23b-7e2f-2f282d5d65a5"
-                },
-                "data": {
-                    "zon": "swk03",
-                    "bulan": "01",
-                    "tahun": "2019"
-                }
-            }
-
-            $.ajax(settings).done(function (response) {
-            });
         </script>
         
         
